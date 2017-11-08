@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proton6web</string>
+
+    <string name="title_activity_non_leaking_web_view">NonLeakingWebView</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
